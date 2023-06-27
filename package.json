@@ -1,6 +1,6 @@
 {
   "private": true,
-  "homepage": "https://voronevska.github.io/adventures/",
+  "homepage": "https://voronevska.github.io/adventures/public",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
