@@ -5,7 +5,7 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b gh-branch -d public/build -r origin2"
+    "deploy": "gh-pages -d public/build -r origin2 -b gh-pages"
     },
     "devDependencies": {
       "axios": "^1.4.0",
